@@ -1,6 +1,6 @@
 # Q Learning Plays Taxi-v3 (OpenAI)
 
-In the first test, a taxi takes the passenger from point Y to point R.
+In the first test, the taxi takes the passenger from point Y to point R.
 
 Taxi route for the first test (8 steps):
 <p align="center">
