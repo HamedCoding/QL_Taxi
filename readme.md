@@ -1,8 +1,8 @@
 # Q Learning Plays Taxi-v3 (OpenAI)
 
-In this example, a taxi takes the passenger from point Y to point R.
+In the first test, a taxi takes the passenger from point Y to point R.
 
-Taxi route for first test (8 steps):
+Taxi route for the first test (8 steps):
 <p align="center">
   <img src="https://github.com/hamedmkazemi/QLearning_Taxi/blob/main/images/Taxi-v3.gif" alt="Sublime's custom image"/>
 </p>  
